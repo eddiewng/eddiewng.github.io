@@ -3,7 +3,7 @@ title: "A Hierarchical Encoding Framework for Text Readability Prediction"
 collection: publications
 permalink: /publication/2019-HierReadPredict
 excerpt: 'A Hierarchical Encoding Framework for Text Readability Prediction'
-date: 2019
+date: 2019-10-3
 venue: 'ROCLING 2019'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
