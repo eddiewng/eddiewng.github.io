@@ -14,5 +14,5 @@ My research interests lie in Automatic Speech Recognition, Spoken Language Proce
 
 Highlights
 ======
-A paper "An Effective Contextual Language Modeling Framework for Speech Summarization with Augmented Features" accepted by EUSIPCO 2020
+* A paper "An Effective Contextual Language Modeling Framework for Speech Summarization with Augmented Features" accepted by EUSIPCO 2020
 
