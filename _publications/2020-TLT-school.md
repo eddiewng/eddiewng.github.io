@@ -2,7 +2,7 @@
 title: "The NTNU System at the Interspeech 2020 Non-Native Children’s Speech ASR Challenge"
 collection: publications
 permalink: /publication/2020-TLT-school
-excerpt: 'The NTNU System at the Interspeech 2020 Non-Native Children’s Speech ASR Challenge'
+# excerpt: 'The NTNU System at the Interspeech 2020 Non-Native Children’s Speech ASR Challenge'
 # date: 2020-
 venue: 'Submitted to Interspeech 2020'
 paperurl: 'https://arxiv.org/abs/2005.08433'

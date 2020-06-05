@@ -2,7 +2,7 @@
 title: "An Effective Contextual Language Modeling Framework for Speech Summarization with Augmented Features"
 collection: publications
 permalink: /publication/2020-BERTSpeechSumm
-excerpt: 'An Effective Contextual Language Modeling Framework for Speech Summarization with Augmented Features'
+# excerpt: 'An Effective Contextual Language Modeling Framework for Speech Summarization with Augmented Features'
 date: 2021-1-18
 venue: 'EUSIPCO 2020'
 paperurl: 'https://arxiv.org/abs/2006.01189'
