@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2020-TLT-school
 # excerpt: 'The NTNU System at the Interspeech 2020 Non-Native Children’s Speech ASR Challenge'
 # date: 2020-
-venue: 'Submitted to Interspeech 2020'
+venue: 'Interspeech 2020'
 paperurl: 'https://arxiv.org/abs/2005.08433'
 # citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 ---
